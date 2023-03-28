@@ -2,7 +2,7 @@ const prompt = 'how do i add an eventlistener to a button in jquery?';
 const codeContainer = document.querySelector('.contentContainer');
 
 function sendChat() {
-    const apiKey = "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";
+    const apiKey = "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";
     const apiUrl = "https://api.openai.com/v1/chat/completions";
     
     
